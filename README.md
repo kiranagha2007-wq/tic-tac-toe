@@ -4,7 +4,7 @@ A simple and interactive **Tic-Tac-Toe game** built using **HTML, CSS, and JavaS
 
 This project helped me practice DOM manipulation, event handling, game logic, and JavaScript functions.
 
-## ✨ Features
+## ✨ Features of tic tac toe game
 
 * 🎮 Two-player Tic-Tac-Toe game
 * ❌ Player 1 plays as **X**
